@@ -1,0 +1,23 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "PostgreSQL 16",
+            "username": "postgres",
+            "database": "PostgreSQL 16"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "PostgreSQL 16",
+            "database": "postgres",
+            "username": "postgres"
+        }
+    ]
+}
